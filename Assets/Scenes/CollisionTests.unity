@@ -406,7 +406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb6df7c3c3b13074d9754456293ac5ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sphereInitialVelocity: {x: 0, y: -10, z: 0}
+  sphereInitialVelocity: {x: 0, y: -100, z: 0}
   rb: {fileID: 1477218714}
 --- !u!1 &1637250382
 GameObject:
